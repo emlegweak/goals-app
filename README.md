@@ -5,6 +5,8 @@
     - Redux Toolkit
     - react-router-DOM
     - react-icons (access to fa icons)
+    - react-toastify (show alerts)
+    - axios
  - Node.js
  - Express
     - express-async-handler
@@ -15,6 +17,7 @@
  - dotenv
  - colors (console)
  - nodemon (dev dependency)
+ - concurrently (dev dependency - run front and backend at the same time)
 
 ### backend
 Rest API
